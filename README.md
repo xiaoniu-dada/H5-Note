@@ -13,34 +13,13 @@
 demo
 ├─index.html
 ├─css
-│ ├─anim.css
-│ └─style.css
+│ ├─anim.css //存放动画
+│ └─style.css //存放样式
 ├─img
-│ └─...
+│ └─... //所有的图片素材
 ├─js
-│ └─main.js
+│ └─main.js //定义行为
 └─media
-  └─...
+  └─... //所以的媒体素材
 ~~~
-头部
-~~~JavaScript
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
-    <link rel="stylesheet" type="text/css" href="css/anim.css"/>
-    <title>项目主题</title>
-</head>
-~~~
-内容部分
-~~~JavaScript
-<body>
-    <audio src="">当前浏览器不支持audio</audio>
-    <div id="wrap">
-        <section class="Pages" id="P1"></section>
-        <section class="Pages" id="P2"></section>
-        <section class="Pages" id="P3"></section>
-    </div>
-    <script src="js/main.js" type="text/javascript" charset="utf-8" defer="defer"></script>
-</body>
-~~~
+
