@@ -9,7 +9,7 @@
 # H5笔记
 
 文件夹路径
-~~~JavaScript
+~~~
 demo
 ├─index.html
 ├─css
