@@ -1,8 +1,10 @@
 # HTML文件部分
+~~~
 1.在 hand 标签内插入手机端适配，快捷键 metav；
 2.在 hand 标签内链接 style.css 文件，快捷键 lin；
 3.在 hand 标签内链接 anim.css 文件，快捷键 lin；
 4.修改 title 标签的内容；
+~~~
 头部
 ~~~HTML
 <head>
