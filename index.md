@@ -1,10 +1,13 @@
 # HTML文件部分
+~~~
 1.在 hand 标签内插入手机端适配，快捷键 metav；
 2.在 hand 标签内链接 style.css 文件，快捷键 lin；
 3.在 hand 标签内链接 anim.css 文件，快捷键 lin；
 4.修改 title 标签的内容；
 头部
-~~~HTML
+~~~
+HTML
+~~~
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
@@ -31,7 +34,8 @@
     <script src="js/main.js" type="text/javascript" charset="utf-8" defer="defer"></script>
 </body>
 ~~~
-Css部分：
+#Css部分：
+~~~
 1.清除CSS默认样式
 * {
     margin: 0;
